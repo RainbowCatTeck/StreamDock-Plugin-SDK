@@ -18,7 +18,7 @@
       "UserTitleEnabled": true,
       "SupportedInMultiActions": false,
       "Tooltip": "行动说明",
-      "UUID": "com.hotspot.streamdock.xxx.action1",
+      "UUID": "com.rainbowcatteck.streamdeck.plugin",
       "PropertyInspectorPath": "propertyInspector/action1/index.html"
     }
   ],
