@@ -12,7 +12,7 @@
  */
 
 const Plugin = {
-  UUID: 'com.streamdock.demo',
+  UUID: 'com.rainbowcatteck.streamdeck.plugin',
   version: '1.0.0',
   Icon: 'images/icon.png',
   i18n: {
